@@ -1,20 +1,23 @@
 import React, { useState } from 'react';
 import Post from './Post';
 import NavBar from './NavBar';
+import Me1 from '../pics/ME1.jpg';
+import Me2 from '../pics/ME2.jpg'
+
 
 const initialPostsData = [
     {
         id: 0,
-        userimage: '../../ME1.jpg',
+        userimage: 'Me1',
         username: 'Abdallah',
-        postimage: '../../ME1.jpg',
+        postimage: 'Me1',
         postbody: 'The first post.'
     },
     {
         id: 1,
-        userimage: '../../ME2.jpg',
+        userimage: 'Me2',
         username: 'Abdallah',
-        postimage: '../../ME2.jpg',
+        postimage: 'Me2',
         postbody: 'The second post.'
     },
 ];

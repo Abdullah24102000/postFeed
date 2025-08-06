@@ -8,16 +8,16 @@ import Me2 from '../pics/ME2.jpg'
 const initialPostsData = [
     {
         id: 0,
-        userimage: 'Me1',
+        userimage: Me1,
         username: 'Abdallah',
-        postimage: 'Me1',
+        postimage: Me1,
         postbody: 'The first post.'
     },
     {
         id: 1,
-        userimage: 'Me2',
+        userimage: Me2,
         username: 'Abdallah',
-        postimage: 'Me2',
+        postimage: Me2,
         postbody: 'The second post.'
     },
 ];

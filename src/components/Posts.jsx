@@ -5,14 +5,14 @@ import NavBar from './NavBar';
 const initialPostsData = [
     {
         id: 0,
-        userimage: '../public/ME1.jpg',
+        userimage: '../../ME1.jpg',
         username: 'Abdallah',
         postimage: '../public/ME1.jpg',
         postbody: 'The first post.'
     },
     {
         id: 1,
-        userimage: '../public/ME2.jpg',
+        userimage: '../../ME2.jpg',
         username: 'Abdallah',
         postimage: '../public/ME2.jpg',
         postbody: 'The second post.'
